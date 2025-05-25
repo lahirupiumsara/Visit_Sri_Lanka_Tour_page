@@ -10,7 +10,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import "./home.css";
 
-import tour4 from "../assets/images/tour/columbo.png";
+import tour4 from "../assets/images/tour/colombo.png";
 import tour5 from "../assets/images/tour/Kandy.png";
 import tour6 from "../assets/images/tour/trincomalee.png";
 import tour7 from "../assets/images/tour/galle.png";
@@ -78,7 +78,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "",
       link: "/tour",
-      location: "dehradun",
     },
     {
       id: 1,
@@ -88,7 +87,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "",
       link: "/tour",
-      location: "Rishikesh",
     },
     {
       id: 2,
@@ -98,7 +96,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "",
       link: "/tour",
-      location: "Mussoorie",
     },
     {
       id: 3,
@@ -108,7 +105,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "",
       link: "/tour",
-      location: "Uttarkhashi",
     },
     {
       id: 4,
@@ -118,7 +114,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "",
       link: "/tour",
-      location: "Manali",
     },
     {
       id: 5,
@@ -128,7 +123,6 @@ const Home = () => {
       link: "tour-name",
       shortDes: "4 tours and activities",
       link: "/tour",
-      location: "Haridwar",
     },
   ];
 
