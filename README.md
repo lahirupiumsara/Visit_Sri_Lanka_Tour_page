@@ -13,7 +13,6 @@ Visit_Sri_Lanka_Tour_page is a React-based web application designed to provide i
 ## Technologies Used
 - **React:** JavaScript library for building user interfaces.
 - **React Router:** For handling navigation and routing within the application.
-- **Axios:** For making API calls to fetch data from external sources.
 - **Styled-Components:** For applying CSS-in-JS styles.
  
 ## Start project
