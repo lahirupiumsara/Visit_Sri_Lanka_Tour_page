@@ -84,7 +84,7 @@ const Footer = () => {
                 <i className="bi bi-geo-alt me-3"></i>
                 <a
                   target="_blank"
-                  href="mailto:lahirupiumsara2001@gmail.com"
+                  href="lahirupiumsara2001@gmail.com"
                   className="d-block"
                 >
                   lahirupiumsara2001@gmail.com
@@ -92,7 +92,7 @@ const Footer = () => {
               </div>
               <div className="d-flex align-items-top ">
                 <i className="bi bi-telephone me-3"></i>
-                <a target="_blank" href="tel:9876543210" className="d-block">
+                <a target="_blank" href="" className="d-block">
                   0767895134
                 </a>
               </div>
